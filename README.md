@@ -1,1 +1,1 @@
-# first-personal-work
+通过学习可以先将评论用jieba进行分词然后在用WordCloud进行词云图的绘制。
