@@ -1,1 +1,1 @@
-# first-personal-work
+通过学习后，可以将jieba分词后的评论用WordCloud进行词云图的展示。
